@@ -2,10 +2,15 @@
 
 
 Contributors: Kasun Sameera
+
 Tags: reference, url, citation, source, attribution
+
 Requires at least: 5.2
+
 Tested up to: 6.5
+
 Stable tag: 1.0.0
+
 License: GPL-2.0+
 
 Add reference URLs to posts and pages with a simple meta box. Perfect for citations, sources, or external attributions.
